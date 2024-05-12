@@ -1,1 +1,1 @@
-# HTML-CSS-Registration-Form-With-Varification
+# HTML-CSS-Registration-Form-With-Verification
